@@ -1,15 +1,19 @@
 Financial Insights Agent Using PhiData
+
 Overview
 The Financial Insights Agent is an intelligent assistant built using PhiData technology to provide real-time financial analysis and actionable insights for companies and stock markets. This agent combines advanced AI models and financial tools to help users make informed decisions by fetching and analyzing financial data such as stock prices, income statements, key financial ratios, technical indicators, and more.
 
 This project leverages cutting-edge tools and technologies to make financial data more accessible, digestible, and actionable.
 
+
 Key Features
 Real-Time Stock Price Updates:
 Get the latest stock prices for any company in real-time, enabling users to stay updated on market movements.
 
+
 Company Information:
 Provides key details about a company, such as its name, sector, and other relevant data to understand its profile.
+
 
 Income Statements:
 Displays comprehensive income statements, including revenue, expenses, and profits, helping users analyze the financial health of companies.
